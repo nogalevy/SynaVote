@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import LikeOrNotPage from './LikeOrNotPage.js'
+import LikeOrNotPage from './LikeOrNotPage.js';
+import CoverPage from './CoverPage';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 
