@@ -1,0 +1,40 @@
+{
+    "songs":[
+        {
+            "countryName": "Israel",
+            "songName":"Home",
+            "singerName": "Kobi Marimi"
+        },
+        {
+            "countryName": " Cyprus",
+            "songName":"Replay",
+            "singerName": "Tamta"
+        },
+        {
+            "countryName": "Montenegro",
+            "songName":"Heaven",
+            "singerName": "D mol"
+        },
+        {
+            "countryName": " Finland",
+            "songName":"Look Away",
+            "singerName": "Darude feat. Sebastian Rejman"
+        },
+        {
+            "countryName": "  Poland",
+            "songName":"Fire of Love (Pali się)",
+            "singerName": "Tulia"
+        },
+        {
+            "countryName": " Slovenia",
+            "songName":"Sebi",
+            "singerName": "Zala Kralj & Gašper Šantl"
+        },
+        {
+            "countryName": " Cyprus",
+            "songName":"Friend of a Friend",
+            "singerName": "Lake Malawi"
+        }
+        
+    ]
+}
