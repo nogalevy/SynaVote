@@ -4,13 +4,13 @@ import LikeOrNotPage from './LikeOrNotPage.js'
 import MainRouter from './MainRouter';
 
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-<MainRouter/>      </div>
-    );
-  }
+class CoverPage extends Component {
+    render() {
+        return (
+            <div>
+            </div>
+        );
+    }
 }
 
-export default App;
+export default CoverPage;
