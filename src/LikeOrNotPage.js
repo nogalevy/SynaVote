@@ -15,7 +15,7 @@ class LikeOrNotPage extends Component {
               <i className="fas fa-heart fa-5x" />
             </div>
           <div className="col-sm-6 col-md-6" id="like-or-not-image">
-              <img className="song-image" src={this.state.imageSrc} alt="kobimarimi" />
+              <img className="song-image" src={this.statjkljkljlkjlke.imageSrc} alt="kobimarimi" />
           </div>
           <div className="col-sm-3 col-md-3">
               <i className="fas fa-times fa-5x" />
