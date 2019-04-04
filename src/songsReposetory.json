@@ -3,27 +3,32 @@
         {
             "countryName": "Israel",
             "songName":"Home",
-            "singerName": "Kobi Marimi"
+            "singerName": "Kobi Marimi",
+            "imageName": "kobimarimi.jpg"
         },
         {
             "countryName": " Cyprus",
             "songName":"Replay",
-            "singerName": "Tamta"
+            "singerName": "Tamta",
+            "imageName": "kobimarimi.jpg"
         },
         {
             "countryName": "Montenegro",
             "songName":"Heaven",
-            "singerName": "D mol"
+            "singerName": "D mol",
+            "imageName": "kobimarimi.jpg"
         },
         {
             "countryName": " Finland",
             "songName":"Look Away",
-            "singerName": "Darude feat. Sebastian Rejman"
+            "singerName": "Darude feat. Sebastian Rejman",
+            "imageName": "kobimarimi.jpg"
         },
         {
             "countryName": "  Poland",
             "songName":"Fire of Love (Pali się)",
-            "singerName": "Tulia"
+            "singerName": "Tulia",
+            "imageName": "kobimarimi.jpg"
         },
         {
             "countryName": " Slovenia",
@@ -33,7 +38,8 @@
         {
             "countryName": " Cyprus",
             "songName":"Friend of a Friend",
-            "singerName": "Lake Malawi"
+            "singerName": "Lake Malawi",
+            "imageName": "kobimarimi.jpg"
         }
         
     ]
